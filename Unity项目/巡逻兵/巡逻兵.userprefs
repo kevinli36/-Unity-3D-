@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\CurrentPatrol.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\CameraMove.cs" Line="5" Column="1" />
+      <File FileName="Assets\Resources\Scripts\UserInterface.cs" Line="34" Column="5" />
+      <File FileName="Assets\Resources\Scripts\CurrentPatrol.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity项目\巡逻兵\Assets\Resources\Scripts\SceneController.cs" line="60" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

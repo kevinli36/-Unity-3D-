@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Arrow.cs">
+    <Files>
+      <File FileName="Assets\Script\ArrowFactory.cs" Line="63" Column="5" />
+      <File FileName="Assets\Script\Arrow.cs" Line="22" Column="22" />
+      <File FileName="Assets\Script\ScoreController.cs" Line="15" Column="10" />
+      <File FileName="Assets\Script\FirstSceneController.cs" Line="13" Column="28" />
+      <File FileName="Assets\Script\UI.cs" Line="27" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity项目\射箭游戏\Assets\Script\FirstSceneController.cs" line="11" column="1" />
+      <Breakpoint file="D:\Unity项目\射箭游戏\Assets\Script\ArrowFactory.cs" line="20" column="1" />
+      <Breakpoint file="D:\Unity项目\射箭游戏\Assets\Script\FirstSceneController.cs" line="70" column="1" />
+      <Breakpoint file="D:\Unity项目\射箭游戏\Assets\Script\ArrowFactory.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
